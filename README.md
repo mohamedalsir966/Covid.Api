@@ -7,7 +7,7 @@ Project Structere:
 - ASP.NET Core Web API application
 - REST API principles, CRUD operations
 - SqlServer database
--Dependency injection
+- Dependency injection
 - CQRS and Mediator 
 - Swagger Open API implementation
 - FluentValidation
